@@ -6,12 +6,12 @@
 //© 2022 kavee Bot Inc. Dark nero Bot MD 
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
-// my owenr kaveesha
+// my owenr Nimsaramd 
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
-//put kavee youtube channel link in the video
+//put edit bro youtube channel link in the video
 //description and tag me on githuh repo, 
 //thank you
 //════════════════════════════//
@@ -173,12 +173,12 @@ Time ⏰ =  ${xtime} `
    //you fail to put, i sue you for sure!
    let buttons = [
     {buttonId: `owner`, buttonText: {displayText: '👍 WELCOME 👍'}, type: 1},
-    {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
+    {buttonId: `menu`, buttonText: {displayText: '💘 MENU 💘'}, type: 1}
     ]
 let buttonMessage = {
     image: { url: 'https://i.ibb.co/hXtGkzj/welcome-poster-spectrum-brush-strokes-white-background-colorful-gradient-brush-design-vector-paper-i.jpg'},
 caption: xeonbody,
-footer: `⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜`,
+footer: `NIMSARAMD`,
 buttons,
 headerType: 4
 }
@@ -203,9 +203,9 @@ Time ⏰ =  ${xeontime} `
     {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
     ]
     let buttonMessage = {
-        image: { url: 'https://i.ibb.co/gytytkM/images.jpg'},
+        image: { url: 'https://telegra.ph/file/dc00cbfc697e50cdd4b99.jpg'},
     caption: xeonbody,
-    footer: `⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜`,
+    footer: `NIMSARAMD`,
     buttons,
     headerType: 4
     }
