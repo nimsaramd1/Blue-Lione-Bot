@@ -36,7 +36,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['94741538531'] //ur owner number
 global.ownername = "NIMSARA " //ur owner name
-global.ytname = "" //ur yt chanel name
+global.ytname = "https://youtube.com/channel/UCb4DFq-M36JmN7Qza5d0T7w" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "sri Lanka, Anuradhapura, Nochchiyagama" //ur location
 
@@ -44,9 +44,9 @@ global.location = "sri Lanka, Anuradhapura, Nochchiyagama" //ur location
 global.owner = ['741538531']
 global.ownertag = '741538531' //ur tag number
 global.botname = '💕NIMSARAMD💕' //ur bot name
-global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
-global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot.git' //script link
+global.linkz = "https://chat.whatsapp.com/JtD5G1eVXg2HJuddsoFm9K" //your theme url which will be displayed on whatsapp
+global.websitex = "GitHub Hack by NIMSARA MD " //ur website to be displayed
+global.botscript = 'https://youtube.com/channel/UCb4DFq-M36JmN7Qza5d0T7w' //script link
 global.reactmoji = "🥰" //ur menu react emoji
 global.themeemoji = "❤️" //ur theme emoji
 global.packname = "NIMSARAMD  Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
@@ -85,14 +85,14 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⚜'
 global.mess = {
-    success: 'SUCCESS ✅',
-    admin: 'This Feature Is Only For Admin! 🇱🇰',
+    success: 'සකස් කරන ලදී. ✅',
+    admin: 'ඇඩ්මින් සදහා පමණක් මෙම විධාන භාවිතා කීරීමට ඉඩ ඇත! 🇱🇰',
     botAdmin: 'Bot Must Be Admin First! 🇱🇰',
-    owner: 'This Feature Is Only For Owner! 🇱🇰',
-    group: 'Feature Used Only For Groups! 🇱🇰',
-    private: 'Features Used Only For Private Chat! 🇱🇰',
+    owner: ' owner සදහා පමණක් මෙම විධාන භාවිතා කීරීමට ඉඩ ඇත! 🇱🇰',
+    group: 'සමූහ වල පමණක් මෙම විධාන භාවිතා කීරීමට ඉඩ ඇත! 🇱🇰',
+    private: ' පෞද්ගලික චැට් වල පමණක් මෙම විධාන භාවිතා කීරීමට ඉඩ ඇත! 🇱🇰',
     bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: ' PLEASE WAIT ⌛⌛⌛⌛',
+    wait: '  මොහොතක් සිටින්න.[ Please wait ]⌛⌛',
     linkm: 'Where is the link? 🇱🇰',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
